@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EQUAL RIGHTS</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <h1>EQUALITY</h1>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#issues">Issues</a></li>
+        <li><a href="#actions">Actions</a></li>
+        <li><a href="#stories">Voices</a></li>
+      </ul>
+    </nav>
+
+    <div class="hero">
+      <h1>ALL FOR EQUALITY</h1>
+      <p> respect, opportunity, and freedom.</p>
+      <a href="#actions" class="btn">Get Involved</a>
+    </div>
+  </header>
+
+  <main>
+    <section id="about" class="card">
+      <h2>ABOUT</h2>
+      <p>
+        Gender equality means equal access to opportunities and resources regardless of gender.
+        It’s about ensuring fairness in education, work, leadership, and personal rights.
+      </p>
+      <img src="genderheadeer.jpg" alt="Gender Equality" class="img-round">
+    </section>
+
+    <section id="issues" class="card">
+      <h2>ISSUES</h2>
+      <p>
+        Despite progress, gender inequality still exists in many areas — from unequal pay and
+        limited leadership roles, to social expectations and discrimination faced by women and
+        the LGBTQ+ community worldwide.
+      </p>
+      <img src="diversity.jpg" alt="Equality Protest" class="img-full">
+    </section>
+
+    <section id="actions" class="card">
+      <h2>TAKE ACTIONS</h2>
+      <ul>
+        <li>Promote equal education and leadership for all genders.</li>
+        <li> Speak up against discrimination and inequality.</li>
+        <li> Support organizations and campaigns that empower women and LGBTQ+ rights.</li>
+        <li> Celebrate diversity and create safe, inclusive spaces.</li>
+      </ul>
+    </section>
+
+    <section id="stories" class="card story">
+      <div class="story-grid">
+        <div class="story-item">
+          <img src="lgbt.jpg" alt="Woman Leader">
+          <p>“Gender equality isn’t a women’s issue,it’s a human issue. We all rise when we lift each other.”</p>
+        </div>
+        <div class="story-item">
+          <img src="photo.jpg" alt="LGBTQ Ally">
+          <p>“Being proud of who you are is the first step toward changing the world.”</p>
+        </div>
+      
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <h3>@12-LOVELACE-TVL-ICT</h3>
+  </footer>
+</body>
+</html>
